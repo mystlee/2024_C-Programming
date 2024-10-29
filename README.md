@@ -16,7 +16,7 @@
 └── run.sh   
 3. tool 중에 shell을 클릭하여, 터미널 접속
 4. 터미널에서 ./run.sh 다음에 작성된 c코드 입력
-   - 예시)
+   - 예시)   
      $ ./run.sh chpater13/problem1.c
 
 <img src="./replit_example.png" width=“80%” height=“80%”>
