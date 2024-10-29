@@ -4,7 +4,7 @@
 
 1. chapter 또는 workspace 폴더 생성 (chapter마다 문제 풀이를 원한다면 chapter 추천!)
 2. 해당 chapter 폴더에서 c코드 작성
-   - 예시)
+   - 예시)   
 ├── chapter13   
 │   ├── problem1.c   
 │   ├── problem2.c   
