@@ -19,5 +19,5 @@
    - 예시)
      $ ./run.sh chpater13/problem1.c
 
-<img src=“./replit_example.png” width=“80%” height=“80%”>
+<img src="./replit_example.png" width=“80%” height=“80%”>
 
