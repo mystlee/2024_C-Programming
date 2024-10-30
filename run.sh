@@ -45,8 +45,8 @@ for SOURCE_FILE in "$@"; do
     # 컴파일된 프로그램 실행
     "$EXECUTABLE_PATH"
 
-    # 실행 후 기본 실행 파일 제거 (선택 사항)
-    # rm "$EXECUTABLE_PATH"
+    # 실행 후 실행 파일 제거
+    rm "$EXECUTABLE_PATH"
 
     echo "-----------------------------------"
 done
